@@ -10,8 +10,8 @@ class Solution {
         int l = 0;
         int n = s.length();
         int min = Integer.MAX_VALUE;
-        int r=0 , m=0;
-        for(int h = 0; h <n ; h++){
+        int r=0 , m = 0;
+        for(int h = 0; h < n ; h++){
             char c = s.charAt(h);
             map1.put(c, map1.getOrDefault(c,0)+1);
             while(check(map1 , map2)){
