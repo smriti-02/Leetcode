@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/smriti-02/Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/smriti-02/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/smriti-02/Leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/smriti-02/Leetcode/tree/master/0057-insert-interval) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/smriti-02/Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/smriti-02/Leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/smriti-02/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/smriti-02/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/smriti-02/Leetcode/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/smriti-02/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sweep Line
 |  |
