@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/smriti-02/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/smriti-02/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/smriti-02/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/smriti-02/Leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/smriti-02/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/smriti-02/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/smriti-02/Leetcode/tree/master/0202-happy-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/smriti-02/Leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/smriti-02/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/smriti-02/Leetcode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/smriti-02/Leetcode/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/smriti-02/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/smriti-02/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/smriti-02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/smriti-02/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/smriti-02/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/smriti-02/Leetcode/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/smriti-02/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/smriti-02/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/smriti-02/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/smriti-02/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -473,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/smriti-02/Leetcode/tree/master/0778-swim-in-rising-water) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/smriti-02/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
