@@ -15,10 +15,10 @@ class Solution {
     }
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
-        int[][] dp = new int[n+1][n+2];
+        int[][] dp = new int[n][n+1];
         int prev = -1;
         int i = 0;
-        for(int j = 0; j<n+1 ; j++){
+        for(int j = 0; j<n ; j++){
             Arrays.fill(dp[j], -1);
         }
         return lis(nums, n, i, prev , dp);
