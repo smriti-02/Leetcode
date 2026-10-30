@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/smriti-02/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/smriti-02/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/smriti-02/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/smriti-02/Leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/smriti-02/Leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/smriti-02/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/smriti-02/Leetcode/tree/master/0525-contiguous-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/smriti-02/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/smriti-02/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/smriti-02/Leetcode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/smriti-02/Leetcode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/smriti-02/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/smriti-02/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/smriti-02/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/smriti-02/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/smriti-02/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/smriti-02/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/smriti-02/Leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/smriti-02/Leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/smriti-02/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/smriti-02/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/smriti-02/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/smriti-02/Leetcode/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/smriti-02/Leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/smriti-02/Leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/smriti-02/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/smriti-02/Leetcode/tree/master/0767-reorganize-string) |
@@ -534,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/smriti-02/Leetcode/tree/master/0062-unique-paths) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/smriti-02/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
