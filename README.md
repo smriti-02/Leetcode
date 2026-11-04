@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/smriti-02/Leetcode/tree/master/0994-rotting-oranges) |
 | [1109-corporate-flight-bookings](https://github.com/smriti-02/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/smriti-02/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1480-running-sum-of-1d-array](https://github.com/smriti-02/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1631-path-with-minimum-effort](https://github.com/smriti-02/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/smriti-02/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/smriti-02/Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/smriti-02/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/smriti-02/Leetcode/tree/master/1109-corporate-flight-bookings) |
+| [1480-running-sum-of-1d-array](https://github.com/smriti-02/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Recursion
 |  |
 | ------- |
