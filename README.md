@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/smriti-02/Leetcode/tree/master/0994-rotting-oranges) |
 | [1109-corporate-flight-bookings](https://github.com/smriti-02/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/smriti-02/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1408-string-matching-in-an-array](https://github.com/smriti-02/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/smriti-02/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1631-path-with-minimum-effort](https://github.com/smriti-02/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/smriti-02/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/smriti-02/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/smriti-02/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/smriti-02/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1408-string-matching-in-an-array](https://github.com/smriti-02/Leetcode/tree/master/1408-string-matching-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -555,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/smriti-02/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/smriti-02/Leetcode/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
