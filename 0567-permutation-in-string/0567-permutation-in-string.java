@@ -16,7 +16,6 @@ class Solution {
             j++;
         }
         j = j-1;
-        boolean res = false;
         while(j < s2.length()){
             if(map1.equals(map2)){
                 return true;
@@ -33,6 +32,6 @@ class Solution {
                 map2.put(s2.charAt(j) , map2.getOrDefault(s2.charAt(j), 0)+1);
             }
         }
-        return res;
+        return false;
     }
 }
