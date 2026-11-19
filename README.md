@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/smriti-02/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/smriti-02/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1408-string-matching-in-an-array](https://github.com/smriti-02/Leetcode/tree/master/1408-string-matching-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/smriti-02/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/smriti-02/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1631-path-with-minimum-effort](https://github.com/smriti-02/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/smriti-02/Leetcode/tree/master/1672-richest-customer-wealth) |
